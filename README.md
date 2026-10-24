@@ -1,4 +1,5 @@
-# 🧮 The Omniscience Calculator Suite
+# 🧮 The Omniscience Calculator Suite 🚀
+
 
 Welcome to the most powerful set of calculators ever built in a single directory. This project evolved from a simple arithmetic tool into a full-blown mathematical engine capable of handling everything from basic sums to complex linear algebra and symbolic calculus.
 
